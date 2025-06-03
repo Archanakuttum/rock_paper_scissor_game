@@ -1,6 +1,9 @@
 # ✊✋✌️ Rock Paper Scissors Game
 
 A simple and fun Rock Paper Scissors game built using **HTML**, **CSS**, and **JavaScript**. Challenge the computer and see if you can win!
+https://archanakuttum.github.io/rock_paper_scissor_game/
+click the above link and enjoy the game
+ 
 ## 🛠️ Features
 
 - Simple and responsive UI
